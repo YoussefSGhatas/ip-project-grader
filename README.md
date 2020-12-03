@@ -47,7 +47,7 @@ With down:
 
 ## What will you deliver?
 
-You will submit one zip file directly including one directory named [team-form] as explained above. 
+You will submit one zip file directly including one directory named [team-form] as explained above. Other directories and files shouldn't be submitted!
 
 
 ## Dependencies: 
