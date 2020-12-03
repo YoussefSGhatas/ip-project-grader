@@ -10,7 +10,9 @@ Note: It might need more changes after creating it.
 ## Directory Structure
 ---
 students-work/\<submitterid>/\<team-form>
+
 ** submitterid: id of sumbitter student. It is added directly by elearn submit system. For testing use any id. 
+
 ** team-form: Folder name should be SEM-## or CRD-## not Team number only.
 
 ### code-directory
@@ -49,6 +51,10 @@ You will submit one zip file directly including one directory named [team-form] 
 
 
 ## Dependencies: 
-python 3.6+
-linux
-docker-compose
+* python 3.6+
+* Linux
+* docker-compose
+
+
+
+-- Code and test method need more improvement and testing.
