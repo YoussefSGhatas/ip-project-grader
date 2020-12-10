@@ -17,17 +17,17 @@ students-work/\<submitterid>/\<team-form>
 
 ### code-directory
 ---
- inside the \<team-form> directoy:
+inside the \<team-form> directoy:
 There should be at least: 
 1. requirements.yml: conda requirements file.
 2. main.py: main python file. 
 3. DockerFile: to construct docker image. Shouldn't be changed.
 4. docker-compose.yml: to run docker image with parameters. Change image only. as written in the todo inside the file. 
 5. All other code files. 
+### Other folders
+output-folder: it will conatain the output texts after executing the code. it must be outside code directory.
 
-b. output-folder: it will conatain the output texts after executing the code. it must be outside code directory.
-
-c. test-cases-folder: it should contain test cases images. it must be outside code directory.
+test-cases-folder: it should contain test cases images. it must be outside code directory.
 
 ** Don't use spaces in any directory path. 
 
